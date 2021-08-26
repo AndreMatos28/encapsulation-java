@@ -15,6 +15,9 @@ Por fim, o saldo da conta não pode ser alterado livremente. É preciso haver um
 isso. O saldo só aumenta por meio de depósitos, e só diminui por meio de saques. Para cada saque
 realizado, o banco cobra uma taxa de $ 5.00. Nota: a conta pode ficar com saldo negativo se o saldo não for
 suficiente para realizar o saque e/ou pagar a taxa.
+
 Você deve fazer um programa que realize o cadastro de uma conta, dando opção para que seja ou não
 informado o valor de depósito inicial. Em seguida, realizar um depósito e depois um saque, sempre
 mostrando os dados da conta após cada operação."
+
+![Screenshot from 2021-08-26 14-23-03](https://user-images.githubusercontent.com/82690993/131007806-8e89c10d-9b27-4530-b78c-e8c04d90ceaf.png)
